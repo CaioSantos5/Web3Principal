@@ -1,1 +1,1 @@
-primeira linha do conflito
+alteração na linha do conflito feita pelo github
