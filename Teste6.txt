@@ -1,1 +1,2 @@
 primeira linha do conflito, alteração local realizada;
+alteração na linha do conflito feita pelo github
