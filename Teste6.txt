@@ -1,1 +1,1 @@
-primeira linha do conflito
+primeira linha do conflito, alteração local realizada;
